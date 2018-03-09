@@ -1,7 +1,7 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+* Vilmos Feher
+*Mathclass.java
+*9/3/2018
  */
 
 package mathclass;
@@ -36,6 +36,8 @@ public class Mathclass {
       DecimalFormat a= new DecimalFormat("##.##");
       double pi=Math.PI;
       System.out.println(a.format(pi));
+         
+    
     }
     
 }
